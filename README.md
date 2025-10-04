@@ -32,15 +32,14 @@
 ---
 
 ### 📂 Featured Projects
-•⁠  ⁠🌍 ⁠ MyWanderLust ⁠ — Travel blog web project  
-•⁠  ⁠🎮 ⁠ Tic Tac Toe Game ⁠ — JavaScript-based fun game  
-•⁠  ⁠💻 ⁠ Fullstack HY2020 ⁠ — Portfolio & web experiment  
-•⁠  ⁠✉️ ⁠ FromText-to-Sign ⁠ — Accessibility-based innovation  
+•  ⁠🌍 ⁠ MyWanderLust ⁠ — Travel blog web project  
+•  ⁠🎮 ⁠ Tic Tac Toe Game ⁠ — JavaScript-based fun game  
+•  💡  Random Quote Generator - Inspiring quotes
 
 ---
 
 ### 📫 Connect
-•⁠  ⁠LinkedIn: https://www.linkedin.com/in/himani-gautam
+•⁠  ⁠LinkedIn: https://www.linkedin.com/in/himani-gautam-19430932a
 •⁠  ⁠Email: himanigautam2109@gmail.com
 
 ---
